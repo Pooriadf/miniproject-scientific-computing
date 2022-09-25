@@ -1,5 +1,5 @@
 # miniproject-scientific-computing2022
-I am Pooria Danaeifar. This my mini project for Scientific Computing.
+I am Pooria Danaeifar. This is my mini project for Scientific Computing course.
 
 
 ## Getting started
