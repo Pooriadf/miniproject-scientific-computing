@@ -1,6 +1,8 @@
 # miniproject-scientific-computing2022
 I am Pooria Danaeifar. This is my mini project for Scientific Computing course.
-
+This program converts text to voice using gTTS library.
+The pygame library is used for playing mp3 file.
+You must select the language you want before converting to voice.
 
 ## Getting started
 
