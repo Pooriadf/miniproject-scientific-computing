@@ -57,18 +57,6 @@ un_entry = Entry(root, font=('Helvetica', 12), width=30, fg="#336d92", bd=0)
 un_entry.grid(column=0, row=0, pady=20, padx=20)
 un_entry.bind('<Control-a>', callback)
 
-# t = Text(root, width=35, height=10)
-# t.grid(column=0, row=15, padx=20)
-
-
-
-
-
-
-# un_window = my_canvas.create_window(34, 120, anchor='nw', window=un_entry)
-# pass_window = my_canvas.create_window(34, 200, anchor='nw', window=pass_entry)
-
-
 
 
 def createbtn():
